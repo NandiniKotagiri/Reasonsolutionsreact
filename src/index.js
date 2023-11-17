@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom/client';
 import Greet from './Components/Greet';
 import Welcome from './Components/Welcome';
 import App from './App';
+import './index.css';
+
 
 // class Employee extends React.Component{
 //     addEmployee=()=>{

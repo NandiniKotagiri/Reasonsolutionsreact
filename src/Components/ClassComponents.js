@@ -15,7 +15,7 @@ class First extends Component{
      render(){
         return(
             <div>
-                <h1>JavaTpoint</h1>
+                <h1>Nandini Kotagiri</h1>
             </div>
         )
      }

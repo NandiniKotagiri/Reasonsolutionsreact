@@ -12,6 +12,8 @@ import UseEffect from './Components/UseEffect'
 import Effect from './Components/Effect'
 import Todos from './Components/Todos'
 import ClassComponents from './Components/ClassComponents'
+import Image from './Components/Image'
+import Practice2 from './Components/practice2'
 
 const MasterFile = () => {
     return (
@@ -29,7 +31,9 @@ const MasterFile = () => {
             <UseEffect/>
             <Effect /> */}
             {/* <Todos/> */}
-            <ClassComponents/>
+            {/* <ClassComponents/> */}
+            {/* <Image/> */}
+            <Practice2 />
         </div>
     )
 }
