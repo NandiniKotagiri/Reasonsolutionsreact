@@ -14,6 +14,8 @@ import Todos from './Components/Todos'
 import ClassComponents from './Components/ClassComponents'
 import Image from './Components/Image'
 import Practice2 from './Components/practice2'
+import Props from './Components/props'
+import Practice3 from  './Components/practice3'
 
 const MasterFile = () => {
     return (
@@ -33,7 +35,9 @@ const MasterFile = () => {
             {/* <Todos/> */}
             {/* <ClassComponents/> */}
             {/* <Image/> */}
-            <Practice2 />
+            {/* <Practice2 /> */}
+            {/* <Props/> */}
+            <Practice3/>
         </div>
     )
 }

@@ -12,7 +12,6 @@ const App = () => {
              <Movie/>
              <Movie/>
              <Movie/>
-             <Practice2/>
         </section>
     ) ;
    
