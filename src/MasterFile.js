@@ -16,6 +16,9 @@ import Image from './Components/Image'
 import Practice2 from './Components/practice2'
 import Props from './Components/props'
 import Practice3 from  './Components/practice3'
+import App from './Components/EventHandlerpractice4'
+import Calculator from './Components/Calculator'
+
 
 const MasterFile = () => {
     return (
@@ -37,7 +40,9 @@ const MasterFile = () => {
             {/* <Image/> */}
             {/* <Practice2 /> */}
             {/* <Props/> */}
-            <Practice3/>
+            {/* <Practice3/> */}
+            {/* <App/>  */}
+            <Calculator/>
         </div>
     )
 }
