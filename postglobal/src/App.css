@@ -1,0 +1,42 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 5px;
+    box-shadow:2px 2px rgb(9, 7, 7);
+    background:  lavender;
+  }
+  
+   
+  .row.content {height: 500px}
+  .text-left{
+    height: 600px;
+    overflow-y: auto;
+  }
+
+  .sidenav {
+    background-color: peachpuff;
+    height: 120%;
+    width:10%;
+    
+  }
+  .sideNavItems{
+    text-align: center;
+    /* align-items: flex-start; */
+  }
+   
+  footer {
+    background-color: #555;
+    color: white;
+    padding: 30px;
+   }
+  
+   .text-primary {
+    color: #0CDA90 !important;
+  }
+  .btn-primary {
+    color: #fff;
+    background-color: #0CDA90;
+    border-color: #0CDA90;
+  }
+  .btn-primary {
+    box-shadow: 0 3px 2px rgb(12 218 144 / 20%);
+  }
